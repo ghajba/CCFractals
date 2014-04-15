@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package biz.hahamo.dev.ccfractals;
 
 import java.math.BigDecimal;
@@ -11,8 +6,8 @@ import java.math.RoundingMode;
 /**
  * Geeez. I spent more hours with this code because I missed a little variable
  * 
- * And currently it the solution only works for 3 and 4 sides
- * does not make sense with other sides, does it? :)
+ * And the solution only works for 3 and 4 sides.
+ * Does not make sense with other sides, does it? :)
  * 
  * @author GHajba
  */
